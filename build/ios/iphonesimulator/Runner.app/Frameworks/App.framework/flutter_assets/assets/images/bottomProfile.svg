@@ -1,0 +1,11 @@
+<svg width="220" height="4" viewBox="0 0 220 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.2" d="M2 2L10 2" stroke="#F5F5F5" stroke-opacity="0.8" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.4" d="M20 2L32 2" stroke="#F5F5F5" stroke-opacity="0.8" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.6" d="M42 2L58 2" stroke="#F5F5F5" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.8" d="M68 2L88 2" stroke="#F5F5F5" stroke-width="4" stroke-linecap="square"/>
+<path d="M98 2L122 2" stroke="#F5F5F5" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.8" d="M132 2L152 2" stroke="#F5F5F5" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.6" d="M162 2H178" stroke="#F5F5F5" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.4" d="M188 2L200 2" stroke="#F5F5F5" stroke-width="4" stroke-linecap="square"/>
+<path opacity="0.2" d="M210 2L218 2" stroke="#F5F5F5" stroke-opacity="0.8" stroke-width="4" stroke-linecap="square"/>
+</svg>
